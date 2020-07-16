@@ -37,6 +37,7 @@ console.log(personaje);
 
 personaje.casado=false;
 
+//objeto to array.
 const entriesPares=Object.entries(personaje);
 console.log(entriesPares);
 
